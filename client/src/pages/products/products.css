@@ -1,0 +1,28 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 60%;
+    margin: auto;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+    width: 400px;
+  }
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+  button{
+      width: 30px;
+      height: 30px;
+  }
+  .del{
+    width: 30px;
+    height: 30px;
+    background-color: red;
+  }
+  .del:hover{
+      background-color: gray;
+  }

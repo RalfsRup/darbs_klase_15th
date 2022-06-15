@@ -1,0 +1,39 @@
+.login{
+    position: relative;
+    top: 100px;
+    width: 400px;
+    height: 200px;
+    text-align: center;
+    margin: auto;
+    outline: solid black 1px;
+}
+ .email{
+    position: relative;
+    height: 30px;
+    width: 200px;
+    margin: auto;
+}
+.pass{
+    height: 30px;
+    width: 200px;
+    position: relative;
+    top: 10px;
+    margin: auto;
+}
+.login h3{
+    position: relative;
+    
+}
+.button{
+    position: relative;
+    top: 20px;
+    width: 200px;
+    height: 30px;
+}
+.button :hover{
+  color: lightblue;
+}
+.a{
+    position: relative;
+    top: 20px;
+}
