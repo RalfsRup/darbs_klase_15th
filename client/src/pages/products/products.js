@@ -7,6 +7,7 @@ import {
   deleteDoc,
   doc,
   addDoc,
+
 } from "firebase/firestore";
 import './products.css';
 function Prod() {
